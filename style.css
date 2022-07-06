@@ -251,13 +251,17 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
+    width: 650px;
+    height: 100px;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .mail-email {
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
     border: 1px solid #CAD3DB;
-    width: 200px;
     font-size: 18px;
     color: #0F121F;
     text-align: center;
@@ -269,8 +273,6 @@ body {
     background: #3D9FFF;
     padding: 10px;
     border: none;
-    width: 200px;
-    height: 65px;
     border-radius: 5px;
     font-size: 18px;
     color: white;
